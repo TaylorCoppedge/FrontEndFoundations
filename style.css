@@ -1,0 +1,57 @@
+img {
+
+    width: 90px;
+    
+    height: 90px;
+    
+    float: left;
+    
+    }
+    
+    #idCard {
+    
+    border: 5px solid black;
+      
+    border-radius: 25px;
+    
+    height: 14em;
+    
+    width: 25em;
+
+    background-color: pink;
+
+    font-family:'Courier New', Courier, monospace;
+
+      margin: auto;
+      margin-bottom: 150px;
+      margin-top: 70px;
+}
+    body{
+        background-color: lightblue;
+    }
+h1{
+  text-align: center;
+}
+form{
+  text-align: center;
+
+}
+#postFullName{
+  text-align: center;
+  font-size: 30px;
+}
+#postAge{
+  text-align: left;
+  padding-left: 10px;
+}
+#postPhoneNumber{
+  text-align: left;
+  padding-left: 10px;
+}
+#postAddress{
+  text-align: left;
+  padding-left: 10px;
+}
+button{
+  margin-top: 10px;
+}
